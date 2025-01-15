@@ -1,0 +1,21 @@
+{
+  "name": "goit-js-hw-01",
+  "version": "1.0.0",
+  "description": "Вже зараз ти знаєш, як оголошувати змінні, розрізняєш основні типи даних та вмієш виконувати прості арифметичні обчислення, пам’ятаєш синтаксис шаблонних рядків, вмієш використовувати оператори порівняння та знаєш як працюють функції.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorDN-web/goit-js-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/IgorDN-web/goit-js-hw-01/issues"
+  },
+  "homepage": "https://github.com/IgorDN-web/goit-js-hw-01#readme"
+}
